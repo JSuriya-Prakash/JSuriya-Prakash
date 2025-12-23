@@ -1,4 +1,7 @@
-## Hi there 👋 It's me Suriya Prakash J
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<h1 align="center">Hi 👋, I'm Suriya Prakash J</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JSuriya-Prakash&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+<p align="center" ><img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"></p>
 
 Data Engineer & Data Analyst
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               
